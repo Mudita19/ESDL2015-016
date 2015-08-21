@@ -2,5 +2,6 @@
 using namespace std;
 iny main()
 {
-cout<<"Hello";
+cout<<"Cummins\n";
+cout<<"Pune";
 }
